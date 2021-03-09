@@ -63,7 +63,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Jimenez, Tomas
 
-- [ ] Ke, Candice
+- [x] Ke, Candice (@candiceke) 😎✨
 
 - [ ] Kim, Yeongmin
 
